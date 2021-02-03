@@ -3,7 +3,7 @@ A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xd
 
 #### List of features:
 - Full edge lightning
-- Enable Dolby Atmos without earphones
+- Enable Dolby Atmos without headphones
 - Show music information (now playing) in AOD
 - AOD to lockscreen clock animation
 
