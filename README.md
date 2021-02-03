@@ -7,7 +7,7 @@ A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xd
 - Show music information (now playing) in AOD
 - AOD to lockscreen clock animation
 
-#### Camera features:
+### Camera features:
 - Pro Video mode
 - 60fps recording
 - Second editing in Single Take
