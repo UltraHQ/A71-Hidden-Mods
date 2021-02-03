@@ -11,5 +11,5 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 
 #### Camera features:
 - Pro Video mode
-- 60fps recording
+- 60FPS recording
 - Second editing in Single Take
