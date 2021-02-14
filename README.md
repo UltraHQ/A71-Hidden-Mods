@@ -1,5 +1,5 @@
 # A71-Hidden-Mods
-A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) systemlessly.
+A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) systemlessly.
 
 Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devices is at your own risk.
 
@@ -9,7 +9,16 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 - Show music information (now playing) in AOD
 - AOD to lockscreen clock animation
 
-#### Camera features:
-- Pro Video mode
-- 60FPS recording
+#### Added camera features:
+- Added new modes: Pro Video, Instagram, Live Focus Video, Sports
+- Extended pro mode features: Histogram, Focus peaking, zoom, reset button
+- Unlimited video file size
+- Switch camera (back/front) while recording
+- FullHD 60FPS recording
+- 24FPS mode for 4K and FHD (Pro mode)
 - Second editing in Single Take
+- Custom resolutions in live focus
+- Beauty feature in live focus
+- Torch flash in live focus
+- Night mode zoom
+- Object tracking AF
