@@ -3,7 +3,7 @@ A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xd
 
 Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devices is at your own risk.
 
-#### List of features:
+#### Added OS features:
 - Full edge lightning
 - Enable Dolby Atmos without headphones
 - Show music information (now playing) in AOD
