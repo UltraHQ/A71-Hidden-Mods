@@ -10,7 +10,7 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 - AOD to lockscreen clock animation
 
 #### Added camera features:
-- Added new modes: Pro Video, Instagram, Live Focus Video, Sports
+- Added new modes: Pro Video, Live Focus Video, Instagram, Sports
 - Extended pro mode features: Histogram, Focus peaking, zoom, reset button
 - Unlimited video file size
 - Switch camera (back/front) while recording
