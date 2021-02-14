@@ -11,7 +11,7 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 
 #### Added camera features:
 - Added new modes: Pro Video, Live Focus Video, Instagram, Sports
-- Extended pro mode features: Histogram, Focus peaking, zoom, reset button
+- Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button
 - Unlimited video file size
 - Switch camera (back/front) while recording
 - FullHD 60FPS recording
