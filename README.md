@@ -1,5 +1,5 @@
 # A71-Hidden-Mods
-A magisk module adding some custom mods and the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) systemlessly.
+A magisk module combining some mods I found and the mods from ShaDisNX255's [XDA-Thread](https://forum.xda-developers.com/t/samsung-galaxy-a71-working-mods.4173295/) and his [NcX Rom](https://forum.xda-developers.com/t/rom-oneui-2-5-twrp-ncx-2-5-for-a71-sm-a715f.4174135/) systemlessly.
 
 Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devices is at your own risk.
 
