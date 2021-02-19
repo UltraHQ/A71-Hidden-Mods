@@ -8,7 +8,7 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 - Enable Dolby Atmos without headphones
 - Show music information (now playing) in AOD
 - AOD to lockscreen clock animation
-- Higher audio quality (Disables DRC, which deeply compresses audio)
+- Higher audio quality (Disabled DRC, which deeply compresses audio)
 
 #### Added camera features:
 - Added new modes: Pro Video, Live Focus Video, Instagram, Sports
