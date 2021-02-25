@@ -196,7 +196,7 @@
 
     <!-- AF features -->
     <local name="SUPPORT_MULTI_AF" value="false"/>
-    <local name="SUPPORT_OBJECT_TRACKING_AF" value="true" />
+    <local name="SUPPORT_OBJECT_TRACKING_AF" value="false" />
     <local name="SUPPORT_FAST_REACTIVE_AF" value="false" />
     <local name="SUPPORT_DIVIDE_AE_AF" value="true" />
 
@@ -254,7 +254,8 @@
     <local name="SUPPORT_PRO_VIDEO_FOCUS_PEAKING" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_RESET" value="true"/>
-    <local name="SUPPORT_PRO_RESET" value="true"/>	
+    <local name="SUPPORT_PRO_RESET" value="true"/>
+    <local name="SUPPORT_EXPAND_SHUTTER_SPEED" value="true"/>
     <local name="SUPPORT_UNLIMITED_VIDEO_FILE_SIZE" value="true"/>	
     <local name="SUPPORT_SWITCH_FACING_WHILE_RECORDING" value="true"/>	
     <local name="DELAY_TIME_TO_RESUME_WHEN_SWITCH_FACING_WHILE_RECORDING" value="250" />
