@@ -9,10 +9,15 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 - Show music information (now playing) in AOD
 - AOD to lockscreen clock animation
 - Higher audio quality (Disabled DRC, which deeply compresses audio)
+- Disabled Samsung Marketing
+- High-End Animations
+- Enhanced CPU Responsiveness
+- Added High Performance mode
+- HDR Effect Support
 
 #### Added camera features:
 - Added new modes: Pro Video, Live Focus Video, Instagram, Sports
-- Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button
+- Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
 - Unlimited video file size
 - Switch camera (back/front) while recording
 - FullHD 60FPS recording
@@ -22,4 +27,3 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 - Beauty feature in live focus
 - Torch flash in live focus
 - Night mode zoom
-- Object tracking AF
