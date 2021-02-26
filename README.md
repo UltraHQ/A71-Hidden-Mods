@@ -14,6 +14,7 @@ Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devic
 - Enhanced CPU Responsiveness
 - Added High Performance mode
 - HDR Effect Support
+- Voice Recorder Interview mode
 
 #### Added camera features:
 - Added new modes: Pro Video, Live Focus Video, Instagram, Sports
