@@ -3,9 +3,6 @@ A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xd
 
 > Note: It should only be used on the Galaxy A71 (SM-A715F). Trying on other devices is at your own risk.
 
-> **Important: Only for Android 10!<br/>
-> Android 11 support is coming soon (Between 08.03 - 12.03)**
-
 #### Added OS features:
 - Full edge lightning
 - Enable Dolby Atmos without headphones
