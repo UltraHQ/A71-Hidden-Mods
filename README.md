@@ -14,6 +14,7 @@ A magisk module adding the mods from ShaDisNX255's [XDA-Thread](https://forum.xd
 - HDR Effect Support
 - Voice Recorder Interview mode
 - AOD to lockscreen transition
+- Full edge lighting
 
 #### Added camera features:
 - Added new modes: Pro Video
