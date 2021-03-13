@@ -96,4 +96,6 @@ ro.config.knox=v30
 ro.kernel.qemu=0
 net.bt.name=Android
 ro.vendor.qti.va_aosp.support=1
+wlan.wfd.hdcp=disable
+wifi.interface=wlan0
 
