@@ -19,7 +19,7 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Google Discover in OneUI stock launcher
 
 #### Added camera features:
-- Added new modes: Pro Video, Fun mode
+- Added new modes: Pro Video
 - Extended pro (video) mode features: Histogram, Focus peaking, zoom, reset button, expanded shutter speed
 - Unlimited video file size
 - Switch camera (back/front) while recording (Bug: When switching, camera is upside down)
