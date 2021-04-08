@@ -30,3 +30,4 @@ Thanks ShaDisNX255 for contributing so much! Most features came from him.
 - Beauty feature in live focus
 - Torch flash in live focus
 - Night mode zoom
+- Review feature
